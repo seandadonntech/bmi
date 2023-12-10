@@ -1,11 +1,8 @@
 # bmi
 a program used to calculate bmi
+## USAGE
 
 
-
-
-##USAGE
-
-```
+```javascript
 enter age ,weight and height
 ```
