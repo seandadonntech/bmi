@@ -1,6 +1,10 @@
 # bmi
 a program used to calculate bmi
-#usage
+
+
+
+
+#USAGE
 
 ```
 enter age ,weight and height
