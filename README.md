@@ -4,7 +4,7 @@ a program used to calculate bmi
 
 
 
-#USAGE
+##USAGE
 
 ```
 enter age ,weight and height
